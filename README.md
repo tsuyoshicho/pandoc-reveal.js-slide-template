@@ -1,3 +1,6 @@
+# Archived
+Goto new [tsuyoshicho/pandoc\-revealjs\-slide\-template](https://github.com/tsuyoshicho/pandoc-revealjs-slide-template)
+
 # pandoc-reveal.js-slide-template
 スライド資料のテンプレート ( [EzoeRyou/slide-cpp17book](https://github.com/EzoeRyou/slide-cpp17book) の構成とMakefileを元にした)
 
